@@ -1,3 +1,1 @@
-Esto es un cambio realizado en el archivo del proyecto
-Soy un extracto de codigo
-Se vuelve a agregar una linea.
+echo "Asi sale en PHP (creo yo")g
